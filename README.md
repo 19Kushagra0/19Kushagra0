@@ -8,10 +8,7 @@ Building and integrating modern web apps, one commit at a time.
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/19Kushagra0"><img src="https://img.shields.io/github/followers/19Kushagra0?label=Followers&style=flat-square&color=60A5FA" alt="Followers" /></a>
-  <a href="https://github.com/19Kushagra0"><img src="https://img.shields.io/github/stars/19Kushagra0?label=Total%20Stars&style=flat-square&color=a855f7" alt="Total Stars" /></a>
-</p>
+
 
 ---
 
