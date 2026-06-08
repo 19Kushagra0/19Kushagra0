@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kushagra! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7W/giphy.gif" width="28">
 
-Welcome to my developer profile! I am a passionate full-stack developer who loves crafting high-performance, visually gorgeous, and interactive digital products.
+Building and integrating modern web apps, one commit at a time.
 
 <p align="center">
   <a href="https://github.com/19Kushagra0">
@@ -17,13 +17,7 @@ Welcome to my developer profile! I am a passionate full-stack developer who love
 
 ### 💻 About Me
 
-I specialize in modern web architectures built on **Next.js, TypeScript, React, and Tailwind CSS**. I focus on pixel-perfect implementations, advanced CSS transitions, clean state management, and elegant UI/UX micro-interactions.
-
-- 🚀 **Currently Building**: Clean, distraction-free email experiences and highly interactive clones.
-- ⚡ **Key Principles**: Clean code, premium design aesthetics, fast load times, and developer-friendly UX.
-- 🎨 **Creative Developer**: Merging full-stack capability with design-first thinking.
-
----
+I Wires ideas and Ships products -> APIs to UI, end to end
 
 ### 🛠️ Tech Stack & Skills
 
@@ -68,7 +62,9 @@ I specialize in modern web architectures built on **Next.js, TypeScript, React, 
     <tr>
       <td width="50%" valign="top">
         <h3>📬 <a href="https://github.com/19Kushagra0/yourmails">YourMails</a></h3>
-        <p>A minimalist Gmail client. Fast, distraction-free mail flow with standard Next.js, NextAuth, Google OAuth, and Gmail API integration.</p>
+        <p>
+        YourMails AI AI powered email app with a clean and minimal design. Read, write, and manage your emails without the clutter.
+        </p>
         <p>
           <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
           <img src="https://img.shields.io/badge/NextAuth-black?style=flat-square&logo=nextauth&logoColor=white" />
@@ -77,7 +73,7 @@ I specialize in modern web architectures built on **Next.js, TypeScript, React, 
       </td>
       <td width="50%" valign="top">
         <h3>🏆 <a href="https://github.com/19Kushagra0/awwwards-homepage-clone">Awwwards Clone</a></h3>
-        <p>Pixel-perfect clone of the Awwwards homepage. Powered by modern React principles, styling excellence, and super-smooth responsive components.</p>
+        <p>A pixel-perfect recreation of the Awwwards Homepage with a fully responsive design.</p> 
         <p>
           <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
           <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
@@ -96,7 +92,7 @@ I specialize in modern web architectures built on **Next.js, TypeScript, React, 
       </td>
       <td width="50%" valign="top">
         <h3>🥗 <a href="https://github.com/19Kushagra0/nutriexplore">NutriExplore</a></h3>
-        <p>An interactive, beautiful nutrition search and tracker engine leveraging modern APIs to index complex recipe datasets.</p>
+        <p>Search out what's inside your packaged food. Check ingredients, nutrition, and product details in seconds.</p>
         <p>
           <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
           <img src="https://img.shields.io/badge/API%20Integration-FF6C37?style=flat-square&logo=postman&logoColor=white" />
