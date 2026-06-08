@@ -104,34 +104,6 @@ I Wires ideas and Ships products -> APIs to UI, end to end
 
 ---
 
-### 📊 GitHub Activity & Metrics
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%" align="center">
-        <a href="https://github.com/19Kushagra0">
-          <img src="https://github-readme-stats.vercel.app/api?username=19Kushagra0&show_icons=true&theme=tokyonight&hide_border=true&title_color=60a5fa&icon_color=a855f7&text_color=94a3b8&bg_color=0b0f19" alt="Kushagra's GitHub Stats" width="100%" />
-        </a>
-      </td>
-      <td width="50%" align="center">
-        <a href="https://github.com/19Kushagra0">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=19Kushagra0&layout=compact&theme=tokyonight&hide_border=true&title_color=60a5fa&text_color=94a3b8&bg_color=0b0f19" alt="Top Langs" width="100%" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <a href="https://github.com/19Kushagra0">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=19Kushagra0&theme=tokyonight&hide_border=true&ring=60a5fa&fire=a855f7&currStreakLabel=94a3b8&bg_color=0b0f19" alt="GitHub Streak" width="100%" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
 ### 📬 Let's Connect!
 
 <div align="center">
